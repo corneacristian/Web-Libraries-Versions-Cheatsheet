@@ -14,3 +14,79 @@ $.ui.version
 ```
 $.ui
 ```
+## Angular
+```
+angular.version
+```
+## Bootstrap
+```
+$.fn.tooltip.Constructor.VERSION
+```
+## Lodash
+```
+_.VERSION
+```
+## MomentJS
+```
+moment.version
+```
+## ExtJS
+```
+Ext.version
+```
+```
+Ext.getVersion('extjs')
+```
+```
+Ext.getVersion().version
+```
+## CKEditor
+```
+CKEDITOR.version
+```
+## Vue
+```
+Vue.version
+```
+## Highcharts
+```
+Highcharts.version
+```
+## Froala Editor
+```
+$.FE.VERSION
+```
+```
+FroalaEditor.VERSION
+```
+## DataTablesJS
+```
+$.fn.dataTable.version
+```
+```
+$.fn.dataTable.versionCheck()
+```
+## Dojo
+```
+dojo.version.toString()
+```
+## Meteor
+```
+Meteor.release
+```
+## React
+```
+React.version
+```
+## Socket.IO
+```
+io.version
+```
+## TinyMCE
+```
+tinyMCE
+```
+## EmberJS
+```
+Ember.VERSION
+```
